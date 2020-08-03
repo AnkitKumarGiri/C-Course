@@ -1,9 +1,0 @@
-D:\projects\C#Course\Tic-Tac-Toe\SchoolLibrary\bin\Debug\netstandard1.4\GameLibrary.deps.json
-D:\projects\C#Course\Tic-Tac-Toe\SchoolLibrary\bin\Debug\netstandard1.4\GameLibrary.dll
-D:\projects\C#Course\Tic-Tac-Toe\SchoolLibrary\bin\Debug\netstandard1.4\GameLibrary.pdb
-D:\projects\C#Course\Tic-Tac-Toe\SchoolLibrary\obj\Debug\netstandard1.4\GameLibrary.csprojAssemblyReference.cache
-D:\projects\C#Course\Tic-Tac-Toe\SchoolLibrary\obj\Debug\netstandard1.4\GameLibrary.AssemblyInfoInputs.cache
-D:\projects\C#Course\Tic-Tac-Toe\SchoolLibrary\obj\Debug\netstandard1.4\GameLibrary.AssemblyInfo.cs
-D:\projects\C#Course\Tic-Tac-Toe\SchoolLibrary\obj\Debug\netstandard1.4\GameLibrary.csproj.CoreCompileInputs.cache
-D:\projects\C#Course\Tic-Tac-Toe\SchoolLibrary\obj\Debug\netstandard1.4\GameLibrary.dll
-D:\projects\C#Course\Tic-Tac-Toe\SchoolLibrary\obj\Debug\netstandard1.4\GameLibrary.pdb

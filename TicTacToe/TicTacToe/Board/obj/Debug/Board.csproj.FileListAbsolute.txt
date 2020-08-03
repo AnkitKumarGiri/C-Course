@@ -1,0 +1,13 @@
+D:\projects\C#Course\TicTacToe\TicTacToe\Board\bin\Debug\Board.exe.config
+D:\projects\C#Course\TicTacToe\TicTacToe\Board\bin\Debug\Board.exe
+D:\projects\C#Course\TicTacToe\TicTacToe\Board\bin\Debug\Board.pdb
+D:\projects\C#Course\TicTacToe\TicTacToe\Board\bin\Debug\GameLibrary.dll
+D:\projects\C#Course\TicTacToe\TicTacToe\Board\bin\Debug\GameLibrary.pdb
+D:\projects\C#Course\TicTacToe\TicTacToe\Board\obj\Debug\Board.csprojAssemblyReference.cache
+D:\projects\C#Course\TicTacToe\TicTacToe\Board\obj\Debug\Board.Display.resources
+D:\projects\C#Course\TicTacToe\TicTacToe\Board\obj\Debug\Board.Properties.Resources.resources
+D:\projects\C#Course\TicTacToe\TicTacToe\Board\obj\Debug\Board.csproj.GenerateResource.cache
+D:\projects\C#Course\TicTacToe\TicTacToe\Board\obj\Debug\Board.csproj.CoreCompileInputs.cache
+D:\projects\C#Course\TicTacToe\TicTacToe\Board\obj\Debug\Board.csproj.CopyComplete
+D:\projects\C#Course\TicTacToe\TicTacToe\Board\obj\Debug\Board.exe
+D:\projects\C#Course\TicTacToe\TicTacToe\Board\obj\Debug\Board.pdb
