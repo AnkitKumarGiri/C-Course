@@ -1,0 +1,13 @@
+D:\projects\C#Course\KadharPortal\EntryForm\bin\Debug\EntryForm.exe.config
+D:\projects\C#Course\KadharPortal\EntryForm\bin\Debug\EntryForm.exe
+D:\projects\C#Course\KadharPortal\EntryForm\bin\Debug\EntryForm.pdb
+D:\projects\C#Course\KadharPortal\EntryForm\obj\Debug\EntryForm.csprojAssemblyReference.cache
+D:\projects\C#Course\KadharPortal\EntryForm\obj\Debug\EntryForm.Form1.resources
+D:\projects\C#Course\KadharPortal\EntryForm\obj\Debug\EntryForm.Properties.Resources.resources
+D:\projects\C#Course\KadharPortal\EntryForm\obj\Debug\EntryForm.csproj.GenerateResource.cache
+D:\projects\C#Course\KadharPortal\EntryForm\obj\Debug\EntryForm.csproj.CoreCompileInputs.cache
+D:\projects\C#Course\KadharPortal\EntryForm\obj\Debug\EntryForm.exe
+D:\projects\C#Course\KadharPortal\EntryForm\obj\Debug\EntryForm.pdb
+D:\projects\C#Course\KadharPortal\EntryForm\bin\Debug\KadharLibrary.dll
+D:\projects\C#Course\KadharPortal\EntryForm\bin\Debug\KadharLibrary.pdb
+D:\projects\C#Course\KadharPortal\EntryForm\obj\Debug\EntryForm.csproj.CopyComplete

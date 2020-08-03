@@ -1,0 +1,9 @@
+D:\projects\C#Course\KadharPortal\KadharLibrary\bin\Debug\netstandard2.0\KadharLibrary.deps.json
+D:\projects\C#Course\KadharPortal\KadharLibrary\bin\Debug\netstandard2.0\KadharLibrary.dll
+D:\projects\C#Course\KadharPortal\KadharLibrary\bin\Debug\netstandard2.0\KadharLibrary.pdb
+D:\projects\C#Course\KadharPortal\KadharLibrary\obj\Debug\netstandard2.0\KadharLibrary.csprojAssemblyReference.cache
+D:\projects\C#Course\KadharPortal\KadharLibrary\obj\Debug\netstandard2.0\KadharLibrary.AssemblyInfoInputs.cache
+D:\projects\C#Course\KadharPortal\KadharLibrary\obj\Debug\netstandard2.0\KadharLibrary.AssemblyInfo.cs
+D:\projects\C#Course\KadharPortal\KadharLibrary\obj\Debug\netstandard2.0\KadharLibrary.csproj.CoreCompileInputs.cache
+D:\projects\C#Course\KadharPortal\KadharLibrary\obj\Debug\netstandard2.0\KadharLibrary.dll
+D:\projects\C#Course\KadharPortal\KadharLibrary\obj\Debug\netstandard2.0\KadharLibrary.pdb
