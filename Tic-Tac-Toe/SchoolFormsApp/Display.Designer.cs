@@ -1,6 +1,6 @@
-﻿namespace SchoolFormsApp
+﻿namespace Board
 {
-    partial class Form1
+    partial class Display
     {
         /// <summary>
         /// Required designer variable.

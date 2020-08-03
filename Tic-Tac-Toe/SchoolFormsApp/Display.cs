@@ -9,13 +9,13 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using GameLibrary;
 
-namespace SchoolFormsApp
+namespace Board
 {
-    public partial class Form1 : Form
+    public partial class Display : Form
     {
         Game newgame;
         int winner;
-        public Form1()
+        public Display()
         {
             InitializeComponent();
             newgame = new Game();
