@@ -28,191 +28,162 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.label1 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
-            this.label3 = new System.Windows.Forms.Label();
-            this.label4 = new System.Windows.Forms.Label();
-            this.label5 = new System.Windows.Forms.Label();
-            this.label6 = new System.Windows.Forms.Label();
-            this.label7 = new System.Windows.Forms.Label();
-            this.txtName = new System.Windows.Forms.TextBox();
-            this.txtAddress = new System.Windows.Forms.TextBox();
-            this.txtCity = new System.Windows.Forms.TextBox();
-            this.txtState = new System.Windows.Forms.TextBox();
-            this.txtZip = new System.Windows.Forms.TextBox();
-            this.txtPhone = new System.Windows.Forms.TextBox();
-            this.txtTwitter = new System.Windows.Forms.TextBox();
-            this.btnPushToTest = new System.Windows.Forms.Button();
-            this.btnTestTeacher = new System.Windows.Forms.Button();
-            this.btnTestStudent = new System.Windows.Forms.Button();
+            this.cell1 = new System.Windows.Forms.Button();
+            this.cell2 = new System.Windows.Forms.Button();
+            this.dispMain = new System.Windows.Forms.Label();
+            this.dispTurn = new System.Windows.Forms.Label();
+            this.dispVerdict = new System.Windows.Forms.Label();
+            this.cell3 = new System.Windows.Forms.Button();
+            this.cell4 = new System.Windows.Forms.Button();
+            this.cell5 = new System.Windows.Forms.Button();
+            this.cell6 = new System.Windows.Forms.Button();
+            this.cell9 = new System.Windows.Forms.Button();
+            this.cell8 = new System.Windows.Forms.Button();
+            this.cell7 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
-            // label1
+            // cell1
             // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(20, 38);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(71, 13);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "School Name";
+            this.cell1.Location = new System.Drawing.Point(48, 77);
+            this.cell1.Name = "cell1";
+            this.cell1.Size = new System.Drawing.Size(75, 45);
+            this.cell1.TabIndex = 0;
+            this.cell1.Text = "-";
+            this.cell1.UseVisualStyleBackColor = true;
+            this.cell1.Click += new System.EventHandler(this.cell1_Click);
             // 
-            // label2
+            // cell2
             // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(56, 80);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(45, 13);
-            this.label2.TabIndex = 1;
-            this.label2.Text = "Address";
+            this.cell2.Location = new System.Drawing.Point(129, 77);
+            this.cell2.Name = "cell2";
+            this.cell2.Size = new System.Drawing.Size(75, 45);
+            this.cell2.TabIndex = 1;
+            this.cell2.Text = "-";
+            this.cell2.UseVisualStyleBackColor = true;
+            this.cell2.Click += new System.EventHandler(this.cell2_Click);
             // 
-            // label3
+            // dispMain
             // 
-            this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(56, 120);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(24, 13);
-            this.label3.TabIndex = 2;
-            this.label3.Text = "City";
+            this.dispMain.AutoSize = true;
+            this.dispMain.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.dispMain.Location = new System.Drawing.Point(90, 27);
+            this.dispMain.Name = "dispMain";
+            this.dispMain.Size = new System.Drawing.Size(55, 24);
+            this.dispMain.TabIndex = 15;
+            this.dispMain.Text = "Turn:";
+            this.dispMain.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.dispMain.Click += new System.EventHandler(this.label1_Click);
             // 
-            // label4
+            // dispTurn
             // 
-            this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(56, 155);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(32, 13);
-            this.label4.TabIndex = 3;
-            this.label4.Text = "State";
+            this.dispTurn.AutoSize = true;
+            this.dispTurn.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.dispTurn.Location = new System.Drawing.Point(162, 27);
+            this.dispTurn.Name = "dispTurn";
+            this.dispTurn.Size = new System.Drawing.Size(22, 27);
+            this.dispTurn.TabIndex = 16;
+            this.dispTurn.Text = "O";
+            this.dispTurn.UseCompatibleTextRendering = true;
+            this.dispTurn.UseWaitCursor = true;
             // 
-            // label5
+            // dispVerdict
             // 
-            this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(56, 192);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(22, 13);
-            this.label5.TabIndex = 4;
-            this.label5.Text = "Zip";
+            this.dispVerdict.AutoSize = true;
+            this.dispVerdict.Location = new System.Drawing.Point(91, 277);
+            this.dispVerdict.Name = "dispVerdict";
+            this.dispVerdict.Size = new System.Drawing.Size(0, 13);
+            this.dispVerdict.TabIndex = 17;
             // 
-            // label6
+            // cell3
             // 
-            this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(56, 226);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(38, 13);
-            this.label6.TabIndex = 5;
-            this.label6.Text = "Phone";
+            this.cell3.Location = new System.Drawing.Point(210, 77);
+            this.cell3.Name = "cell3";
+            this.cell3.Size = new System.Drawing.Size(75, 45);
+            this.cell3.TabIndex = 18;
+            this.cell3.Text = "-";
+            this.cell3.UseVisualStyleBackColor = true;
+            this.cell3.Click += new System.EventHandler(this.cell3_Click);
             // 
-            // label7
+            // cell4
             // 
-            this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(56, 260);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(39, 13);
-            this.label7.TabIndex = 6;
-            this.label7.Text = "Twitter";
+            this.cell4.Location = new System.Drawing.Point(48, 128);
+            this.cell4.Name = "cell4";
+            this.cell4.Size = new System.Drawing.Size(75, 45);
+            this.cell4.TabIndex = 19;
+            this.cell4.Text = "-";
+            this.cell4.UseVisualStyleBackColor = true;
+            this.cell4.Click += new System.EventHandler(this.cell4_Click);
             // 
-            // txtName
+            // cell5
             // 
-            this.txtName.Location = new System.Drawing.Point(97, 35);
-            this.txtName.Name = "txtName";
-            this.txtName.Size = new System.Drawing.Size(100, 20);
-            this.txtName.TabIndex = 7;
+            this.cell5.Location = new System.Drawing.Point(129, 128);
+            this.cell5.Name = "cell5";
+            this.cell5.Size = new System.Drawing.Size(75, 45);
+            this.cell5.TabIndex = 21;
+            this.cell5.Text = "-";
+            this.cell5.UseVisualStyleBackColor = true;
+            this.cell5.Click += new System.EventHandler(this.cell5_Click);
             // 
-            // txtAddress
+            // cell6
             // 
-            this.txtAddress.Location = new System.Drawing.Point(97, 77);
-            this.txtAddress.Name = "txtAddress";
-            this.txtAddress.Size = new System.Drawing.Size(100, 20);
-            this.txtAddress.TabIndex = 8;
+            this.cell6.Location = new System.Drawing.Point(210, 128);
+            this.cell6.Name = "cell6";
+            this.cell6.Size = new System.Drawing.Size(75, 45);
+            this.cell6.TabIndex = 23;
+            this.cell6.Text = "-";
+            this.cell6.UseVisualStyleBackColor = true;
+            this.cell6.Click += new System.EventHandler(this.cell6_Click);
             // 
-            // txtCity
+            // cell9
             // 
-            this.txtCity.Location = new System.Drawing.Point(97, 117);
-            this.txtCity.Name = "txtCity";
-            this.txtCity.Size = new System.Drawing.Size(100, 20);
-            this.txtCity.TabIndex = 9;
+            this.cell9.Location = new System.Drawing.Point(210, 179);
+            this.cell9.Name = "cell9";
+            this.cell9.Size = new System.Drawing.Size(75, 45);
+            this.cell9.TabIndex = 24;
+            this.cell9.Text = "-";
+            this.cell9.UseVisualStyleBackColor = true;
+            this.cell9.Click += new System.EventHandler(this.cell9_Click);
             // 
-            // txtState
+            // cell8
             // 
-            this.txtState.Location = new System.Drawing.Point(97, 152);
-            this.txtState.Name = "txtState";
-            this.txtState.Size = new System.Drawing.Size(100, 20);
-            this.txtState.TabIndex = 10;
+            this.cell8.Location = new System.Drawing.Point(129, 179);
+            this.cell8.Name = "cell8";
+            this.cell8.Size = new System.Drawing.Size(75, 45);
+            this.cell8.TabIndex = 25;
+            this.cell8.Text = "-";
+            this.cell8.UseVisualStyleBackColor = true;
+            this.cell8.Click += new System.EventHandler(this.cell8_Click);
             // 
-            // txtZip
+            // cell7
             // 
-            this.txtZip.Location = new System.Drawing.Point(97, 189);
-            this.txtZip.Name = "txtZip";
-            this.txtZip.Size = new System.Drawing.Size(100, 20);
-            this.txtZip.TabIndex = 11;
-            // 
-            // txtPhone
-            // 
-            this.txtPhone.Location = new System.Drawing.Point(97, 223);
-            this.txtPhone.Name = "txtPhone";
-            this.txtPhone.Size = new System.Drawing.Size(100, 20);
-            this.txtPhone.TabIndex = 12;
-            // 
-            // txtTwitter
-            // 
-            this.txtTwitter.Location = new System.Drawing.Point(97, 253);
-            this.txtTwitter.Name = "txtTwitter";
-            this.txtTwitter.Size = new System.Drawing.Size(100, 20);
-            this.txtTwitter.TabIndex = 13;
-            // 
-            // btnPushToTest
-            // 
-            this.btnPushToTest.Location = new System.Drawing.Point(59, 318);
-            this.btnPushToTest.Name = "btnPushToTest";
-            this.btnPushToTest.Size = new System.Drawing.Size(138, 23);
-            this.btnPushToTest.TabIndex = 14;
-            this.btnPushToTest.Text = "Push To Test";
-            this.btnPushToTest.UseVisualStyleBackColor = true;
-            this.btnPushToTest.Click += new System.EventHandler(this.btnPushToTest_Click);
-            // 
-            // btnTestTeacher
-            // 
-            this.btnTestTeacher.Location = new System.Drawing.Point(59, 365);
-            this.btnTestTeacher.Name = "btnTestTeacher";
-            this.btnTestTeacher.Size = new System.Drawing.Size(132, 23);
-            this.btnTestTeacher.TabIndex = 15;
-            this.btnTestTeacher.Text = "Test Teacher";
-            this.btnTestTeacher.UseVisualStyleBackColor = true;
-            this.btnTestTeacher.Click += new System.EventHandler(this.btnTestTeacher_Click);
-            // 
-            // btnTestStudent
-            // 
-            this.btnTestStudent.Location = new System.Drawing.Point(59, 394);
-            this.btnTestStudent.Name = "btnTestStudent";
-            this.btnTestStudent.Size = new System.Drawing.Size(132, 23);
-            this.btnTestStudent.TabIndex = 16;
-            this.btnTestStudent.Text = "Test Student";
-            this.btnTestStudent.UseVisualStyleBackColor = true;
-            this.btnTestStudent.Click += new System.EventHandler(this.btnTestStudent_Click);
+            this.cell7.Location = new System.Drawing.Point(48, 179);
+            this.cell7.Name = "cell7";
+            this.cell7.Size = new System.Drawing.Size(75, 45);
+            this.cell7.TabIndex = 26;
+            this.cell7.Text = "-";
+            this.cell7.UseVisualStyleBackColor = true;
+            this.cell7.Click += new System.EventHandler(this.cell7_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(284, 431);
-            this.Controls.Add(this.btnTestStudent);
-            this.Controls.Add(this.btnTestTeacher);
-            this.Controls.Add(this.btnPushToTest);
-            this.Controls.Add(this.txtTwitter);
-            this.Controls.Add(this.txtPhone);
-            this.Controls.Add(this.txtZip);
-            this.Controls.Add(this.txtState);
-            this.Controls.Add(this.txtCity);
-            this.Controls.Add(this.txtAddress);
-            this.Controls.Add(this.txtName);
-            this.Controls.Add(this.label7);
-            this.Controls.Add(this.label6);
-            this.Controls.Add(this.label5);
-            this.Controls.Add(this.label4);
-            this.Controls.Add(this.label3);
-            this.Controls.Add(this.label2);
-            this.Controls.Add(this.label1);
+            this.ClientSize = new System.Drawing.Size(364, 351);
+            this.Controls.Add(this.cell7);
+            this.Controls.Add(this.cell8);
+            this.Controls.Add(this.cell9);
+            this.Controls.Add(this.cell6);
+            this.Controls.Add(this.cell5);
+            this.Controls.Add(this.cell4);
+            this.Controls.Add(this.cell3);
+            this.Controls.Add(this.dispVerdict);
+            this.Controls.Add(this.dispTurn);
+            this.Controls.Add(this.dispMain);
+            this.Controls.Add(this.cell2);
+            this.Controls.Add(this.cell1);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -220,23 +191,18 @@
 
         #endregion
 
-        private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.Label label6;
-        private System.Windows.Forms.Label label7;
-        private System.Windows.Forms.TextBox txtName;
-        private System.Windows.Forms.TextBox txtAddress;
-        private System.Windows.Forms.TextBox txtCity;
-        private System.Windows.Forms.TextBox txtState;
-        private System.Windows.Forms.TextBox txtZip;
-        private System.Windows.Forms.TextBox txtPhone;
-        private System.Windows.Forms.TextBox txtTwitter;
-        private System.Windows.Forms.Button btnPushToTest;
-        private System.Windows.Forms.Button btnTestTeacher;
-        private System.Windows.Forms.Button btnTestStudent;
+        private System.Windows.Forms.Button cell1;
+        private System.Windows.Forms.Button cell2;
+        private System.Windows.Forms.Label dispMain;
+        private System.Windows.Forms.Label dispTurn;
+        private System.Windows.Forms.Label dispVerdict;
+        private System.Windows.Forms.Button cell3;
+        private System.Windows.Forms.Button cell4;
+        private System.Windows.Forms.Button cell5;
+        private System.Windows.Forms.Button cell6;
+        private System.Windows.Forms.Button cell9;
+        private System.Windows.Forms.Button cell8;
+        private System.Windows.Forms.Button cell7;
     }
 }
 

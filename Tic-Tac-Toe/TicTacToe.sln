@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27004.2002
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SchoolLibrary", "SchoolLibrary\SchoolLibrary.csproj", "{45BEFAF2-7786-4C3E-BE88-F1069F315D4F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameLibrary", "SchoolLibrary\GameLibrary.csproj", "{45BEFAF2-7786-4C3E-BE88-F1069F315D4F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolFormsApp", "SchoolFormsApp\SchoolFormsApp.csproj", "{E1E5EC32-3949-4125-B992-635216224E6C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Board", "SchoolFormsApp\Board.csproj", "{E1E5EC32-3949-4125-B992-635216224E6C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

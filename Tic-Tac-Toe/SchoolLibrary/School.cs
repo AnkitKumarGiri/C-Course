@@ -29,7 +29,7 @@ namespace SchoolLibrary
                 }
             }
         }
-
+        
         public School()
         {
             Name = "Untitled School";

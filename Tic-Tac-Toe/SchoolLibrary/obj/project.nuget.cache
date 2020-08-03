@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9x6N+PwuDIJaW2a5zJX1h4ZLJkJGVEtlUxtZ8URur1vfYzq0a6HFEefH8cjdZj6Hj1wIjNncTZVA0/isnCO+IQ==",
+  "dgSpecHash": "e0Q3lPlw3w2MxHKLo9RzU2umTe/n9N98Y7rqpK7ZDIBWDdDnyvxUDNJKLJ0Nlk7zqdeEgiNQLymD6FGBWAJ6fA==",
   "success": true,
-  "projectFilePath": "D:\\projects\\C#Course\\Tic-Tac-Toe\\SchoolLibrary\\SchoolLibrary.csproj",
+  "projectFilePath": "D:\\projects\\C#Course\\Tic-Tac-Toe\\SchoolLibrary\\GameLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ankit\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Ankit\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",

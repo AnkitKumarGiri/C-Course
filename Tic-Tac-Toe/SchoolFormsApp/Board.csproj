@@ -79,9 +79,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\SchoolLibrary\SchoolLibrary.csproj">
+    <ProjectReference Include="..\SchoolLibrary\GameLibrary.csproj">
       <Project>{45befaf2-7786-4c3e-be88-f1069f315d4f}</Project>
-      <Name>SchoolLibrary</Name>
+      <Name>GameLibrary</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

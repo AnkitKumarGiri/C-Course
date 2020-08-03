@@ -3832,9 +3832,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\projects\\C#Course\\Tic-Tac-Toe\\SchoolLibrary\\SchoolLibrary.csproj",
-      "projectName": "SchoolLibrary",
-      "projectPath": "D:\\projects\\C#Course\\Tic-Tac-Toe\\SchoolLibrary\\SchoolLibrary.csproj",
+      "projectUniqueName": "D:\\projects\\C#Course\\Tic-Tac-Toe\\SchoolLibrary\\GameLibrary.csproj",
+      "projectName": "GameLibrary",
+      "projectPath": "D:\\projects\\C#Course\\Tic-Tac-Toe\\SchoolLibrary\\GameLibrary.csproj",
       "packagesPath": "C:\\Users\\Ankit\\.nuget\\packages\\",
       "outputPath": "D:\\projects\\C#Course\\Tic-Tac-Toe\\SchoolLibrary\\obj\\",
       "projectStyle": "PackageReference",
