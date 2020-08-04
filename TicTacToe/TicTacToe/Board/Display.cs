@@ -13,8 +13,8 @@ namespace Board
 {
     public partial class Display : Form
     {
-        Game newgame;
-        int winner;
+        private Game newgame;
+        private int winner;
         public Display()
         {
             InitializeComponent();
@@ -45,9 +45,7 @@ namespace Board
 
         private void label1_Click(object sender, EventArgs e)
         {
-            StringBuilder sb = new StringBuilder();
-            sb.AppendLine(string.Format("{0} {1} {2}", newgame.Table[0], newgame.Table[1], newgame.Table[2]));
-            MessageBox.Show(sb.ToString());
+
         }
 
         private void cell1_Click(object sender, EventArgs e)
