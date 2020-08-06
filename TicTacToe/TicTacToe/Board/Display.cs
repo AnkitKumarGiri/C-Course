@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using GameLibrary;
+using NLog;
 
 namespace Board
 {
@@ -15,6 +16,7 @@ namespace Board
     {
         private Game newgame;
         private int winner;
+
         public Display()
         {
             InitializeComponent();

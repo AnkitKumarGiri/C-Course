@@ -7,3 +7,11 @@ D:\projects\C#Course\KadharPortal\KadharLibrary\obj\Debug\netstandard2.0\KadharL
 D:\projects\C#Course\KadharPortal\KadharLibrary\obj\Debug\netstandard2.0\KadharLibrary.csproj.CoreCompileInputs.cache
 D:\projects\C#Course\KadharPortal\KadharLibrary\obj\Debug\netstandard2.0\KadharLibrary.dll
 D:\projects\C#Course\KadharPortal\KadharLibrary\obj\Debug\netstandard2.0\KadharLibrary.pdb
+C:\Users\angiri\Source\Repos\C-Course\KadharPortal\KadharLibrary\bin\Debug\netstandard2.0\KadharLibrary.deps.json
+C:\Users\angiri\Source\Repos\C-Course\KadharPortal\KadharLibrary\bin\Debug\netstandard2.0\KadharLibrary.dll
+C:\Users\angiri\Source\Repos\C-Course\KadharPortal\KadharLibrary\bin\Debug\netstandard2.0\KadharLibrary.pdb
+C:\Users\angiri\Source\Repos\C-Course\KadharPortal\KadharLibrary\obj\Debug\netstandard2.0\KadharLibrary.AssemblyInfoInputs.cache
+C:\Users\angiri\Source\Repos\C-Course\KadharPortal\KadharLibrary\obj\Debug\netstandard2.0\KadharLibrary.AssemblyInfo.cs
+C:\Users\angiri\Source\Repos\C-Course\KadharPortal\KadharLibrary\obj\Debug\netstandard2.0\KadharLibrary.csproj.CoreCompileInputs.cache
+C:\Users\angiri\Source\Repos\C-Course\KadharPortal\KadharLibrary\obj\Debug\netstandard2.0\KadharLibrary.dll
+C:\Users\angiri\Source\Repos\C-Course\KadharPortal\KadharLibrary\obj\Debug\netstandard2.0\KadharLibrary.pdb

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\projects\\C#Course\\TicTacToe\\TicTacToe\\GameLibrary\\GameLibrary.csproj": {}
+    "C:\\Users\\angiri\\source\\repos\\C-Course\\TicTacToe\\TicTacToe\\GameLibrary\\GameLibrary.csproj": {}
   },
   "projects": {
-    "D:\\projects\\C#Course\\TicTacToe\\TicTacToe\\GameLibrary\\GameLibrary.csproj": {
+    "C:\\Users\\angiri\\source\\repos\\C-Course\\TicTacToe\\TicTacToe\\GameLibrary\\GameLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projects\\C#Course\\TicTacToe\\TicTacToe\\GameLibrary\\GameLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\angiri\\source\\repos\\C-Course\\TicTacToe\\TicTacToe\\GameLibrary\\GameLibrary.csproj",
         "projectName": "GameLibrary",
-        "projectPath": "D:\\projects\\C#Course\\TicTacToe\\TicTacToe\\GameLibrary\\GameLibrary.csproj",
-        "packagesPath": "C:\\Users\\Ankit\\.nuget\\packages\\",
-        "outputPath": "D:\\projects\\C#Course\\TicTacToe\\TicTacToe\\GameLibrary\\obj\\",
+        "projectPath": "C:\\Users\\angiri\\source\\repos\\C-Course\\TicTacToe\\TicTacToe\\GameLibrary\\GameLibrary.csproj",
+        "packagesPath": "C:\\Users\\angiri\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\angiri\\source\\repos\\C-Course\\TicTacToe\\TicTacToe\\GameLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ankit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\angiri\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

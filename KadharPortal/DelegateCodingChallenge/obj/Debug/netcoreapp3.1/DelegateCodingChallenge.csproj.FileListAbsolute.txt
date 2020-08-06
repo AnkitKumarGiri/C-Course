@@ -1,0 +1,13 @@
+C:\Users\angiri\source\repos\C-Course\KadharPortal\DelegateCodingChallenge\bin\Debug\netcoreapp3.1\DelegateCodingChallenge.exe
+C:\Users\angiri\source\repos\C-Course\KadharPortal\DelegateCodingChallenge\bin\Debug\netcoreapp3.1\DelegateCodingChallenge.deps.json
+C:\Users\angiri\source\repos\C-Course\KadharPortal\DelegateCodingChallenge\bin\Debug\netcoreapp3.1\DelegateCodingChallenge.runtimeconfig.json
+C:\Users\angiri\source\repos\C-Course\KadharPortal\DelegateCodingChallenge\bin\Debug\netcoreapp3.1\DelegateCodingChallenge.runtimeconfig.dev.json
+C:\Users\angiri\source\repos\C-Course\KadharPortal\DelegateCodingChallenge\bin\Debug\netcoreapp3.1\DelegateCodingChallenge.dll
+C:\Users\angiri\source\repos\C-Course\KadharPortal\DelegateCodingChallenge\bin\Debug\netcoreapp3.1\DelegateCodingChallenge.pdb
+C:\Users\angiri\source\repos\C-Course\KadharPortal\DelegateCodingChallenge\obj\Debug\netcoreapp3.1\DelegateCodingChallenge.csprojAssemblyReference.cache
+C:\Users\angiri\source\repos\C-Course\KadharPortal\DelegateCodingChallenge\obj\Debug\netcoreapp3.1\DelegateCodingChallenge.AssemblyInfoInputs.cache
+C:\Users\angiri\source\repos\C-Course\KadharPortal\DelegateCodingChallenge\obj\Debug\netcoreapp3.1\DelegateCodingChallenge.AssemblyInfo.cs
+C:\Users\angiri\source\repos\C-Course\KadharPortal\DelegateCodingChallenge\obj\Debug\netcoreapp3.1\DelegateCodingChallenge.csproj.CoreCompileInputs.cache
+C:\Users\angiri\source\repos\C-Course\KadharPortal\DelegateCodingChallenge\obj\Debug\netcoreapp3.1\DelegateCodingChallenge.dll
+C:\Users\angiri\source\repos\C-Course\KadharPortal\DelegateCodingChallenge\obj\Debug\netcoreapp3.1\DelegateCodingChallenge.pdb
+C:\Users\angiri\source\repos\C-Course\KadharPortal\DelegateCodingChallenge\obj\Debug\netcoreapp3.1\DelegateCodingChallenge.genruntimeconfig.cache

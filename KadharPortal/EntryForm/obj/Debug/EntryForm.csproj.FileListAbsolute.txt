@@ -11,3 +11,16 @@ D:\projects\C#Course\KadharPortal\EntryForm\obj\Debug\EntryForm.pdb
 D:\projects\C#Course\KadharPortal\EntryForm\bin\Debug\KadharLibrary.dll
 D:\projects\C#Course\KadharPortal\EntryForm\bin\Debug\KadharLibrary.pdb
 D:\projects\C#Course\KadharPortal\EntryForm\obj\Debug\EntryForm.csproj.CopyComplete
+C:\Users\angiri\Source\Repos\C-Course\KadharPortal\EntryForm\bin\Debug\EntryForm.exe.config
+C:\Users\angiri\Source\Repos\C-Course\KadharPortal\EntryForm\bin\Debug\EntryForm.exe
+C:\Users\angiri\Source\Repos\C-Course\KadharPortal\EntryForm\bin\Debug\EntryForm.pdb
+C:\Users\angiri\Source\Repos\C-Course\KadharPortal\EntryForm\bin\Debug\KadharLibrary.dll
+C:\Users\angiri\Source\Repos\C-Course\KadharPortal\EntryForm\bin\Debug\KadharLibrary.pdb
+C:\Users\angiri\Source\Repos\C-Course\KadharPortal\EntryForm\obj\Debug\EntryForm.csprojAssemblyReference.cache
+C:\Users\angiri\Source\Repos\C-Course\KadharPortal\EntryForm\obj\Debug\EntryForm.Form1.resources
+C:\Users\angiri\Source\Repos\C-Course\KadharPortal\EntryForm\obj\Debug\EntryForm.Properties.Resources.resources
+C:\Users\angiri\Source\Repos\C-Course\KadharPortal\EntryForm\obj\Debug\EntryForm.csproj.GenerateResource.cache
+C:\Users\angiri\Source\Repos\C-Course\KadharPortal\EntryForm\obj\Debug\EntryForm.csproj.CoreCompileInputs.cache
+C:\Users\angiri\Source\Repos\C-Course\KadharPortal\EntryForm\obj\Debug\EntryForm.csproj.CopyComplete
+C:\Users\angiri\Source\Repos\C-Course\KadharPortal\EntryForm\obj\Debug\EntryForm.exe
+C:\Users\angiri\Source\Repos\C-Course\KadharPortal\EntryForm\obj\Debug\EntryForm.pdb

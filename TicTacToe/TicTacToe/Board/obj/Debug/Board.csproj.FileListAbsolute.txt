@@ -11,3 +11,16 @@ D:\projects\C#Course\TicTacToe\TicTacToe\Board\obj\Debug\Board.csproj.CoreCompil
 D:\projects\C#Course\TicTacToe\TicTacToe\Board\obj\Debug\Board.csproj.CopyComplete
 D:\projects\C#Course\TicTacToe\TicTacToe\Board\obj\Debug\Board.exe
 D:\projects\C#Course\TicTacToe\TicTacToe\Board\obj\Debug\Board.pdb
+C:\Users\angiri\source\repos\C-Course\TicTacToe\TicTacToe\Board\bin\Debug\Board.exe.config
+C:\Users\angiri\source\repos\C-Course\TicTacToe\TicTacToe\Board\bin\Debug\Board.exe
+C:\Users\angiri\source\repos\C-Course\TicTacToe\TicTacToe\Board\bin\Debug\Board.pdb
+C:\Users\angiri\source\repos\C-Course\TicTacToe\TicTacToe\Board\bin\Debug\GameLibrary.dll
+C:\Users\angiri\source\repos\C-Course\TicTacToe\TicTacToe\Board\bin\Debug\GameLibrary.pdb
+C:\Users\angiri\source\repos\C-Course\TicTacToe\TicTacToe\Board\obj\Debug\Board.csprojAssemblyReference.cache
+C:\Users\angiri\source\repos\C-Course\TicTacToe\TicTacToe\Board\obj\Debug\Board.Display.resources
+C:\Users\angiri\source\repos\C-Course\TicTacToe\TicTacToe\Board\obj\Debug\Board.Properties.Resources.resources
+C:\Users\angiri\source\repos\C-Course\TicTacToe\TicTacToe\Board\obj\Debug\Board.csproj.GenerateResource.cache
+C:\Users\angiri\source\repos\C-Course\TicTacToe\TicTacToe\Board\obj\Debug\Board.csproj.CoreCompileInputs.cache
+C:\Users\angiri\source\repos\C-Course\TicTacToe\TicTacToe\Board\obj\Debug\Board.csproj.CopyComplete
+C:\Users\angiri\source\repos\C-Course\TicTacToe\TicTacToe\Board\obj\Debug\Board.exe
+C:\Users\angiri\source\repos\C-Course\TicTacToe\TicTacToe\Board\obj\Debug\Board.pdb

@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "cS9pEzt6I1eg7MnNF25LKBctyZUuEmmQ+CptA6R0xAeaHdCg5whSSQqygvendRbm+mdUig2OOCcBIQLqK4Vxvw==",
+  "dgSpecHash": "zqYyhp0WJEg+hLD1pwmkstb2b3tMLjS7J7jehNfSPM7nh5mXH2DCA0a25FWHnUil2zF1j81u4cVw4y/wz53Giw==",
   "success": true,
-  "projectFilePath": "D:\\projects\\C#Course\\TicTacToe\\TicTacToe\\GameLibrary\\GameLibrary.csproj",
+  "projectFilePath": "C:\\Users\\angiri\\source\\repos\\C-Course\\TicTacToe\\TicTacToe\\GameLibrary\\GameLibrary.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Ankit\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Ankit\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\angiri\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\angiri\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

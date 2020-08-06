@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Zu+u4bUZCCy2+B6ITogD1JPx7wCZDOfjTO5iDJC8OIj7um2xvFQX6TNvhcrMCl7nSOl9KO1vARrOu8vKdmMyLA==",
+  "dgSpecHash": "glPWtVAoGDCmswgnh2sWhONl6RdoPhTCp7e/s3OAoTUm2kETj+7u3tCrJ1QyS+vw3DdxGw8libILoZriPIg5hA==",
   "success": true,
-  "projectFilePath": "D:\\projects\\C#Course\\KadharPortal\\KadharLibrary\\KadharLibrary.csproj",
+  "projectFilePath": "C:\\Users\\angiri\\source\\repos\\C-Course\\KadharPortal\\KadharLibrary\\KadharLibrary.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Ankit\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Ankit\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\angiri\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\angiri\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

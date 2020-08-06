@@ -180,19 +180,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ankit\\.nuget\\packages\\": {}
+    "C:\\Users\\angiri\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\projects\\C#Course\\KadharPortal\\KadharLibrary\\KadharLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\angiri\\Source\\Repos\\C-Course\\KadharPortal\\KadharLibrary\\KadharLibrary.csproj",
       "projectName": "KadharLibrary",
-      "projectPath": "D:\\projects\\C#Course\\KadharPortal\\KadharLibrary\\KadharLibrary.csproj",
-      "packagesPath": "C:\\Users\\Ankit\\.nuget\\packages\\",
-      "outputPath": "D:\\projects\\C#Course\\KadharPortal\\KadharLibrary\\obj\\",
+      "projectPath": "C:\\Users\\angiri\\Source\\Repos\\C-Course\\KadharPortal\\KadharLibrary\\KadharLibrary.csproj",
+      "packagesPath": "C:\\Users\\angiri\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\angiri\\Source\\Repos\\C-Course\\KadharPortal\\KadharLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Ankit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\angiri\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -1,0 +1,16 @@
+C:\Users\angiri\source\repos\C-Course\TicTacToe\TicTacToe\GameTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\angiri\source\repos\C-Course\TicTacToe\TicTacToe\GameTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\angiri\source\repos\C-Course\TicTacToe\TicTacToe\GameTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\angiri\source\repos\C-Course\TicTacToe\TicTacToe\GameTests\bin\Debug\GameTests.dll
+C:\Users\angiri\source\repos\C-Course\TicTacToe\TicTacToe\GameTests\bin\Debug\GameTests.pdb
+C:\Users\angiri\source\repos\C-Course\TicTacToe\TicTacToe\GameTests\bin\Debug\GameLibrary.dll
+C:\Users\angiri\source\repos\C-Course\TicTacToe\TicTacToe\GameTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\angiri\source\repos\C-Course\TicTacToe\TicTacToe\GameTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\angiri\source\repos\C-Course\TicTacToe\TicTacToe\GameTests\bin\Debug\GameLibrary.pdb
+C:\Users\angiri\source\repos\C-Course\TicTacToe\TicTacToe\GameTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\angiri\source\repos\C-Course\TicTacToe\TicTacToe\GameTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\angiri\source\repos\C-Course\TicTacToe\TicTacToe\GameTests\obj\Debug\GameTests.csprojAssemblyReference.cache
+C:\Users\angiri\source\repos\C-Course\TicTacToe\TicTacToe\GameTests\obj\Debug\GameTests.csproj.CoreCompileInputs.cache
+C:\Users\angiri\source\repos\C-Course\TicTacToe\TicTacToe\GameTests\obj\Debug\GameTests.csproj.CopyComplete
+C:\Users\angiri\source\repos\C-Course\TicTacToe\TicTacToe\GameTests\obj\Debug\GameTests.dll
+C:\Users\angiri\source\repos\C-Course\TicTacToe\TicTacToe\GameTests\obj\Debug\GameTests.pdb
